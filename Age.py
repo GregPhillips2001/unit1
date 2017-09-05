@@ -2,8 +2,8 @@
 #9/5/17
 #Age.py
 
-fullName = input("Write name here")
-age = int(input("Write age here"))
+fullName = input("Write name here ")
+age = int(input("Write age here "))
 firstName, lastName = fullName.split()
 print("Your first name has", len(firstName), "letters")
 print("Your last name has", len(lastName), "letters")
