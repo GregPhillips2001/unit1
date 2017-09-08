@@ -1,6 +1,6 @@
 #Greg Phillips
 #9/6/17
-#stringAnalysis.py
+#stringAnalysis.py - counts the number of words, characters, and letter. Searches for letter and its number of occurences. Searches for word and its number of occurences.
 
 sentence = input("Enter a sentence here ")
 spaces = sentence.count(" ")
